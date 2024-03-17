@@ -1,6 +1,8 @@
 # Transporticular
 ### OpenTTD inspired transport tycoon game (2019)
-https://renyreynoldson.itch.io/transporticular
+YouTube Demo: https://www.youtube.com/watch?v=AhabrSUjVJU
+Itch.io Page: https://renyreynoldson.itch.io/transporticular
+
 In this simple 2D Transport Tycoon game, you must start your company from scratch to maximise profits, gain the respect of the locals and grow your company. Inspired by games such as Transport Tycoon Deluxe, this will put you in the hands of managing a transport company and building all of the connections and roads throughout the game. There are many aspects that must be balanced such as money, respect, produce and population; all while avoiding bankruptcy.
 ![Landing Page](pic1.png)
 ### How To Play
