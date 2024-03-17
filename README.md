@@ -21,7 +21,7 @@ DISCLAIMER: Displayed video is a tad outdated. This game was designed for a 1600
 
 ## Gallery
 ![Landing Page](pic2.png)
+![Landing Page](pic5.png)
 ![Landing Page](pic3.png)
 ![Landing Page](pic4.png)
-![Landing Page](pic5.png)
-![Landing Page](pic6.png)
+
