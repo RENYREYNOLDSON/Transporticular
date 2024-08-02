@@ -1,6 +1,7 @@
 # Transporticular
 ### OpenTTD inspired transport tycoon game (2019)
-YouTube Demo: https://www.youtube.com/watch?v=AhabrSUjVJU
+YouTube Demo: 
+[![YouTube Demo](https://img.youtube.com/vi/AhabrSUjVJU/0.jpg)](https://www.youtube.com/watch?v=AhabrSUjVJU)
 
 Itch.io Page: https://renyreynoldson.itch.io/transporticular
 
