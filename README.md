@@ -1,5 +1,8 @@
 # Transporticular
 ### OpenTTD inspired transport tycoon game (2019)
+
+![Landing Page](pic1.png)
+
 In this simple 2D Transport Tycoon game, you must start your company from scratch to maximise profits, gain the respect of the locals and grow your company. Inspired by games such as Transport Tycoon Deluxe, this will put you in the hands of managing a transport company and building all of the connections and roads throughout the game. There are many aspects that must be balanced such as money, respect, produce and population; all while avoiding bankruptcy.
 
 YouTube Demo: 
@@ -9,7 +12,7 @@ YouTube Demo:
 Itch.io Page: https://renyreynoldson.itch.io/transporticular
 
 
-![Landing Page](pic1.png)
+
 ### How To Play
 ~~~
 1. Select a map, enter text to name the company, then press start new game and open the finance menu to take out a loan. Everyday interest will be added on to the debt.
